@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lastbasket
 - 👀 I’m interested in Computer Games, Deep Learning, Human Computer Interaction
-- 🌱 I’m currently working on AI image processing, Super Resolution Algorithm on camera and HCI for AR
+- 🌱 I’m currently working on Deep Learning based image processing and HCI for AR
 - 💞️ I’m looking for friends who are interested in the same areas for collabroation on papers
 - 📫 How to reach me contact phone number: 60641451 wechat: lastbasket
 
